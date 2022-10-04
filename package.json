@@ -17,6 +17,7 @@
     "lodash": "^4.17.21"
   },
   "devDependencies": {
+    "@types/node": "^12.20.55",
     "async": "^3.2.0",
     "coffeescript": "^2.5.1",
     "mocha": "^7.0.1",
