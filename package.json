@@ -1,5 +1,5 @@
 {
-  "name": "rsmq",
+  "name": "@torderdev/rsmq",
   "description": "A really simple message queue based on Redis",
   "version": "0.12.4",
   "license": "MIT",
