@@ -9,7 +9,7 @@ A Really Simple Message Queue based on Redis
 
 */
 import * as _ from "lodash"
-import * as RedisInst from "redis"
+import * as RedisInst from "@torderdev/node-redis"
 const EventEmitter = require("events").EventEmitter
 
 /*

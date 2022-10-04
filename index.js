@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 const _ = require("lodash");
-const RedisInst = require("redis");
+const RedisInst = require("@torderdev/node-redis");
 const EventEmitter = require("events").EventEmitter;
 class RedisSMQ extends EventEmitter {
     constructor(options = {}) {

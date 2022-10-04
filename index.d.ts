@@ -16,7 +16,7 @@
 *~ workarounds for this limitation of ES6 modules.
 */
 
-import { ClientOpts, RedisClient } from "redis";
+import { ClientOpts, RedisClient } from "@torderdev/node-redis";
 
 /*~ This declaration specifies that the class constructor function
 *~ is the exported object from the file
